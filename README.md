@@ -9,7 +9,7 @@ CSC621-821 Finalproject Team Fire
 3. Create virtual environment for the project 
 
 `python -m venv venv` for window
-`virtualenv venv venv` for mac
+`virtualenv venv` for mac
 then activate it
 
 4. Install the required packages: `pip install -r requirements.txt`.
