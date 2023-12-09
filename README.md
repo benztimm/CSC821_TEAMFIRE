@@ -19,27 +19,5 @@ then activate it
 
 
 ## Usage
-
-
-
-## Contributing
-
-Instructions on how to contribute to the project.
-
-## License
-
-Information about the project's license.
-
-Instructions on how to install the project.
-
-## Usage
-
-Instructions on how to use the project.
-
-## Contributing
-
-Instructions on how to contribute to the project.
-
-## License
-
-Information about the project's license.
+1. After open Jupyter notebook, open "300_Segmentation_Overview.ipynb"
+2. After open "300_Segmentation_Overview.ipynb", go to "Run" and Run All Cells"
